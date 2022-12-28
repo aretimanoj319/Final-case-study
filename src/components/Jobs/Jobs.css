@@ -1,0 +1,21 @@
+.title{
+    text-align: center;
+    margin: 50px;
+    font-size: 2rem;
+    color: rgb(0, 7, 10);
+    font-family: auto;
+}
+
+.cardtextfro{
+    display: inline-block !important;
+    padding-right: 20px;
+    padding-top: 10px;
+    font-family: ui-serif
+}
+.Cardsty {
+    margin-bottom: 10px; /* Added */
+}
+.iconclass{
+    color: #b09898;
+    padding-right: 4px
+}

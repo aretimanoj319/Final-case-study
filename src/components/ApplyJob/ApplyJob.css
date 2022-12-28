@@ -1,0 +1,11 @@
+.titlestyle{
+    text-align: center;
+    font-size: 1.5rem;
+    color: rgb(3, 3, 56);
+    font-family: auto;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

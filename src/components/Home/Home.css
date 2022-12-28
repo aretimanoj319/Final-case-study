@@ -1,0 +1,49 @@
+.homeclass {
+    background-color: rgb(208, 159, 159);
+    height: 100vh !important;
+}
+
+.captionimage {
+    height: 200px;
+    width: 400px;
+    color: rgb(5, 1, 15);
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -200px;
+}
+
+.btndiv {
+    position: relative;
+    top: 4rem;
+}
+
+.btnclass {
+    width: 160px;
+    height: 60px;
+    transform: skew(-15deg);
+    background: #6f6fefd9 !important;
+    font-weight: bold;
+    border-radius: 5px;
+    font-family: monospace;
+}
+
+.linkstyle {
+    color: rgb(1, 1, 10) !important;
+}
+
+.carousel-indicators {
+    display: none !important;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .btnclass {
+        width: 344px;
+        margin-top: 0.5rem;
+        height: 60px;
+        transform: skew(-20deg);
+        background: #10103bd9 !important;
+        font-weight: bold;
+        font-family: monospace;
+    }
+}

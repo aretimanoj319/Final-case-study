@@ -1,0 +1,63 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "jobrole": "SeniorManager",
+      "company": "CTS",
+      "salary": "500000",
+      "experiance": "3-5",
+      "location": "Hyderabad"
+    },
+    {
+      "id": 2,
+      "jobrole": "Manager",
+      "company": "AB InfoTech",
+      "salary": "300000",
+      "experiance": "6-7",
+      "location": "Pune"
+    },
+    {
+      "id": 3,
+      "jobrole": "Java Developer",
+      "company": "Tech Info",
+      "salary": "900000",
+      "experiance": "8-9",
+      "location": "Pune"
+    },
+    {
+      "id": 4,
+      "jobrole": "UI Developer",
+      "company": "InfoTech",
+      "salary": "600000",
+      "experiance": "3-4",
+      "location": "Pune"
+    },
+    {
+      "id": 5,
+      "jobrole": "Testing",
+      "company": "Techno",
+      "salary": "200000",
+      "experiance": "1-2",
+      "location": "Pune"
+    }
+  ],
+  "Appliedjobs": [
+    {
+      "JobId": "1",
+      "Name": "Manoj Kumar",
+      "Email": "Manoj Kumar",
+      "Mobile": "987787",
+      "Experience": "1234",
+      "id": 1
+    }
+  ],
+  "contactus": [
+    {
+      "Name": "Manoj Kumar",
+      "Email": "Manoj Kumar",
+      "Password": "1234",
+      "Message": "hhanan",
+      "id": 1
+    }
+  ]
+}
